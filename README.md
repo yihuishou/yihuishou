@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 > A project feature designer
 
-🇨🇳 China Shenyang ・ 🔧 Full stack developer
+🇨🇳 China Shenyang ・ 🔧 Full stack engineer
 
 ✏️ Blog: [https://yihuishou.github.io](https://yihuishou.github.io)  
