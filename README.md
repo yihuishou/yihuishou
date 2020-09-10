@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 
 🇨🇳 China Shenyang ・ 🔧 Full stack engineer
 
-✏️ Blog: [https://yihuishou.github.io](https://yihuishou.github.io) ✨ ![](https://visitor-badge.glitch.me/badge?page_id=yihuishou)
+✏️ Blog: [https://yihuishou.github.io](https://yihuishou.github.io)
+
+✨ ![](https://visitor-badge.glitch.me/badge?page_id=yihuishou)
