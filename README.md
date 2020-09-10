@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ✏️ Blog: [https://yihuishou.github.io](https://yihuishou.github.io)
 
-✨ ![](https://visitor-badge.glitch.me/badge?page_id=yihuishou)
+![](https://visitor-badge.glitch.me/badge?page_id=yihuishou)
